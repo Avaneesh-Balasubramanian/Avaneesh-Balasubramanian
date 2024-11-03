@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avaneesh-Balasubramanian
-- 💞️ I’m looking to collaborate on Computation, Simulation and AI for Chemistry and Materials Science
+- 💞️ I’m looking to collaborate on Computation, Simulation and AI for Electrochemistry and Materials Science
 - 📫 Feel free to reach me at avaneeshbala@gmail.com
 - 😄 Pronouns: Him/His
 - The codes written in the repository are simple and functional; I am working on object-oriented codes for the same
